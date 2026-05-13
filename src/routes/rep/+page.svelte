@@ -65,9 +65,9 @@
 
 <div class="narrow_container">
 	<h1>Repertoire</h1>
-	{#if new_studies_error}
-		<p style="color:red;"><small>Error checking Lichess for new studies: {new_studies_error}</p>
-	{/if}
+	<!--{#if new_studies_error}-->
+	<!--	<p style="color:red;"><small>Error checking Lichess for new studies: {new_studies_error}</p>-->
+	<!--{/if}-->
 </div>
 
 
